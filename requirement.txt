@@ -2,3 +2,6 @@ this is chart application .
 emoji 
 type otion 
 beautiful
+
+dark mode 
+maybach311225
